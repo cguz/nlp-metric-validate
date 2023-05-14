@@ -6,5 +6,4 @@ No installation required
 
 ## Usage
 
-TBD
-
+uvicorn main:app --reload
